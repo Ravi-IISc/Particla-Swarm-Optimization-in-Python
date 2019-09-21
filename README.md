@@ -1,4 +1,4 @@
-# Particla-Swarm-Optimization-in-Python (PSO) without constraints 
+# Particle-Swarm-Optimization-in-Python (PSO) without constraints 
 Minimization Problem - 
 PSO or Particle Swarm Optimization is a new method to find the optimum solution of a given function. It is a non gradient based algorithm. 
 PSO was originally given by Kennedy, Eberhart and shi (1995). For details vist https://ieeexplore.ieee.org/document/488968
